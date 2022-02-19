@@ -1,3 +1,13 @@
+
+/*Project: Lab2 git hub
+ * Class: UniqueWords.java
+ * Author: Sara Vrbic
+ * Date: February 18 2022
+ * sees how many unique words there are in the array list.
+ */
+
+
+
 import java.util.ArrayList;
 
 public class UniqueWords
